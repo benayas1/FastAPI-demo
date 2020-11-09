@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+prophet
+fbprophet
+pandas
+numpy
+yfinance
+plotly
+joblib
+benatools
+opencv-python
+albumentations
